@@ -10,7 +10,7 @@
 
 ## ダウンロード
 
-- [GEKIFUDE_SFX_v1.002_CC0.zip](./GEKIFUDE_SFX_v1.003_CC0.zip)
+- [GEKIFUDE_SFX_v1.003_CC0.zip](./GEKIFUDE_SFX_v1.003_CC0.zip)
 - [使用可能文字一覧（横長PNG）](./GEKIFUDE_SFX_glyphs_horizontal.png)
 
 ## U+3099／U+309A（結合濁点・結合半濁点）
