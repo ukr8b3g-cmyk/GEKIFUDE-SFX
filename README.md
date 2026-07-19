@@ -23,7 +23,7 @@ Example: to type **ゔ** in Windows Japanese IME:
 2. Type **3099**.
 3. Press **F5** to convert the Unicode code point, then confirm.
 
-This inserts U+3099 after う. For a semi-voiced mark, use **309A** in the same way. The result depends on the application's support for combining marks.
+This inserts U+3099 after う. For a semi-voiced mark, use **309A** in the same way. The result depends on the application's support for combining marks.\n\nIf you do not use a Japanese IME, copy and paste **ゔ** directly, or paste the combining mark **゙** immediately after a kana. In Microsoft Word or other Office apps, type `3099` and press **Alt+X**; use `309A` for a handakuten.
 
 ## Included
 
