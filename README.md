@@ -13,6 +13,18 @@ Created by **HIDEOUT**.
 - [GEKIFUDE_SFX_v1.002_CC0.zip](./GEKIFUDE_SFX_v1.002_CC0.zip)
 - [Glyph preview sheet](./GEKIFUDE_SFX_glyphs_horizontal.png)
 
+## Combining marks: U+3099 / U+309A
+
+The font supports combining dakuten and handakuten, which are useful for expressive manga lettering.
+
+Example: to type **ゔ** in Windows Japanese IME:
+
+1. Type **う** and confirm it.
+2. Type **3099**.
+3. Press **F5** to convert the Unicode code point, then confirm.
+
+This inserts U+3099 after う. For a semi-voiced mark, use **309A** in the same way. The result depends on the application's support for combining marks.
+
 ## Included
 
 Hiragana and katakana, voiced and semi-voiced kana, combining dakuten and handakuten (U+3099 / U+309A), Latin capitals, ASCII symbols, full-width digits, arrows, hearts, checks, and manga-style emotion and speech-bubble symbols.
