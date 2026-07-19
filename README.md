@@ -45,7 +45,7 @@ It uses fast, expressive brush movement, heavy entry strokes, sharp finishes, an
 
 ### Download
 
-- [GEKIFUDE_SFX_v1.002_CC0.zip](./GEKIFUDE_SFX_v1.002_CC0.zip)
+- [GEKIFUDE_SFX_v1.003_CC0.zip](./GEKIFUDE_SFX_v1.003_CC0.zip)
 - [Glyph preview sheet](./GEKIFUDE_SFX_glyphs_horizontal.png)
 
 ### Combining marks: U+3099 / U+309A
