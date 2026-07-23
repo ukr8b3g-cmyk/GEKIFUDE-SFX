@@ -1,4 +1,10 @@
 # GEKIFUDE-SFX
+【更新のお知らせ】
+
+激筆SFXを v1.004 に更新しました。
+
+今回の更新では、カタカナ「ガ」「ギ」の濁点が混ざって表示される不具合を修正しています。TTF版・OTF版の両方を更新しました。
+その他の文字や仕様に変更はありません。旧版をご利用の方は、最新版を再ダウンロードしてください。ご指摘・ご報告ありがとうございました。
 
 [English version](#english)
 
@@ -38,6 +44,11 @@
 ---
 
 ## English
+## GEKIFUDE SFX v1.004
+
+This update fixes an issue affecting the Katakana characters **ガ (GA)** and **ギ (GI)**, where the dakuten marks could appear incorrectly mixed or misplaced.
+Both the TTF and OTF files have been updated. No other glyphs or font specifications were changed.
+If you are using an earlier version, please download v1.004.
 
 GEKIFUDE-SFX is a free display font for manga sound effects, Japanese onomatopoeia, impact lettering, and speech-bubble text.
 
